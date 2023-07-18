@@ -1,4 +1,4 @@
-<img alt="Coding" width="1000px" height="400px" src="https://i.pinimg.com/originals/9d/8d/cd/9d8dcd32f4615963f42e428366c096f1.gif">
+<img alt="Coding" width="100%" height="250px" src="https://i.pinimg.com/originals/9d/8d/cd/9d8dcd32f4615963f42e428366c096f1.gif">
 
 <h1>Hi 👋, I'm Muhammad Mamoor Ali</h1>
 <p>A highly motivated and dedicated Developer. With a solid foundation in HTML, CSS, and JavaScript, I possess a strong understanding of both front end principles and back end's framework of Python - Django. My goal is to leverage my knowledge and continue growing as a developer while making a meaningful impact in the digital landscape. With a keen eye for detail and a commitment to producing high-quality code, I strive to create seamless user experiences that exceeds client expectations.</p>
