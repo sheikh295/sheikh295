@@ -5,17 +5,15 @@
 
 <img align="right" alt="Coding" width="450px" src="https://thumbs.gfycat.com/AstonishingDentalGermanspitz-size_restricted.gif">
 
-- 🔭 I’m currently working on **M.S. Law Associates**
+- 🔭 I’m currently working on a project **M.S. Law Associates** which is a website for a law firm
 
 - 🌱 I’m currently learning **Vue.js and TypeScript**
 
-- 👨‍💻 All of my projects are available at [sheikh295.github.io/Portfolio](sheikh295.github.io/Portfolio)
-
-- 💬 Ask me about **Vanilla and React JS**
+- 👨‍💻 Get me Know in detail at [sheikh295.github.io/Portfolio](sheikh295.github.io/Portfolio)
 
 - 📫 How to reach me **mamoorali295@outlook.com**
 
-- ⚡ Fun fact **My comfort or leisure activity is ............................ YES </br> You Guessed right. It's coding 👀**
+- ⚡ Fun fact **My comfort or leisure activity is ........ YES </br> You Guessed right. It's coding 👀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,7 +24,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/xTiTngBQncyTMceuXK/giphy.gif">
 
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sheikh295&show_icons=true&locale=en&layout=compact" alt="sheikh295" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sheikh295&" alt="sheikh295" /></p>
+
+<p><img align="center" style="margin-top: '10px';" src="https://github-readme-streak-stats.herokuapp.com/?user=sheikh295&" alt="sheikh295" /></p>
 
