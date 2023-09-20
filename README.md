@@ -1,7 +1,7 @@
 <img alt="Coding" width="100%" height="200px" src="https://www.troublefreepool.com/media/hello-gif.3474/full">
 
 <h1>Hi 👋, I'm Muhammad Mamoor Ali</h1>
-<p>A motivated, dedicated and passionate full-stack developer with a love for crafting top-notch web applications. My journey began with front-end development, where I honed my skills in HTML, CSS, JavaScript, with their respective frameworks and libraries, creating captivating user interfaces that leave a lasting impression. But that wasn't enough for me! I dove into the world of back-end development, mastering server-side languages like Python and Node.js, and tinkering with databases to build robust and scalable applications. </br>
+<p>A motivated, dedicated and passionate front-end developer with a love for crafting top-notch web applications. My journey began with web development basics, where I honed my skills in HTML, CSS, JavaScript. But that wasn't enough for me! I dove further into the world of front-end development, mastering React.js, creating captivating user interfaces that leave a lasting impression. </br>
 
 From conceptualization to deployment, I'm involved in every step of the development process. I'm a firm believer in the power of clean code and RESTful APIs to create seamless interactions between front-end and back-end. Solving problems is my superpower, and I'm always on the lookout for cutting-edge technologies to elevate my projects. Beyond coding, you'll find me watching more coding videos, brainstorming ideas, or enjoying a netflix series ot two</p>
 
