@@ -3,11 +3,11 @@
 <h1>Hi 👋, I'm Muhammad Mamoor Ali</h1>
 
 <p>
-A highly skilled and passionate **Senior Full Stack Developer & Team Lead**, dedicated to building scalable, high-performance applications. My journey started with frontend development in **React**, but I quickly expanded into full-stack development, mastering **Node.js, Express, and MongoDB**. Over time, I have led and contributed to world-class products and multiple commercial projects, including **React/Next.js frontends, NestJS and GraphQL backends, RAG-based AI applications, and mobile development with React Native & Flutter**.
+A highly skilled and passionate <strong>Senior Full Stack Developer & Team Lead</strong>, dedicated to building scalable, high-performance applications. My journey started with frontend development in **React**, but I quickly expanded into full-stack development, mastering <strong>Node.js, Express, and MongoDB</strong>. Over time, I have led and contributed to world-class products and multiple commercial projects, including <strong>React/Next.js frontends, NestJS and GraphQL backends, RAG-based AI applications, and mobile development with React Native & Flutter</strong>.
 </p>
 
 <p>
-From conceptualization to deployment, I am involved in every step of the **development lifecycle**. I specialize in **architecting robust backends, crafting dynamic user interfaces, implementing DevOps solutions, and automating workflows**. I am always exploring new technologies to push the boundaries of innovation. Beyond coding, I enjoy refining my skills, mentoring developers, and optimizing software performance.
+From conceptualization to deployment, I am involved in every step of the <strong>development lifecycle</strong>. I specialize in <strong>architecting robust backends, crafting dynamic user interfaces, implementing DevOps solutions, and automating workflows</strong>. I am always exploring new technologies to push the boundaries of innovation. Beyond coding, I enjoy refining my skills, mentoring developers, and optimizing software performance.
 </p>
 
 ---
